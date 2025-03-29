@@ -89,7 +89,7 @@ verdi code create core.code.installed --label mycode --computer=mycomputer --def
 ### Running a Natural Language Query
 
 ```bash
-python run_workflow.py 
+verdi run_workflow.py 
 ```
 
 ### Available Demo Queries
