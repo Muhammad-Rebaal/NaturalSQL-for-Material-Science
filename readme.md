@@ -14,7 +14,16 @@ The project leverages AiiDA's powerful provenance tracking and database capabili
 - **AiiDA Integration**: Works with AiiDA's provenance graph to provide context-aware results
 - **Materials Science Focus**: Tailored for computational materials science terminology and workflows
 
+## Repository Structure
 
+```
+aiida-core/               # AiiDA core framework (dependency)
+nl_query_demo/            # Demo scripts and workflows
+  ├── nl_query_workflow.py  # Main workflow for NL queries
+  ├── run_workflow.py       # Script to execute workflows
+  └── workflow.py           # Workflow definition
+nl_query_reports/         # Generated PDF reports
+```
 
 ## Requirements
 
