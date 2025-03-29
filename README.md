@@ -89,8 +89,7 @@ verdi code create core.code.installed --label mycode --computer=mycomputer --def
 ### Running a Natural Language Query
 
 ```bash
-cd nl_query_demo
-python run_workflow.py --query "Find all calculations that used DFT with a cutoff energy above 400 eV"
+python run_workflow.py 
 ```
 
 ### Available Demo Queries
@@ -146,4 +145,4 @@ Please cite the following when using this project:
 
 ## Contact
 
-For questions and support, please open an issue in the GitHub repository or contact the development team at [your-email@example.com](mailto:your-email@example.com).
+For questions and support, please open an issue in the GitHub repository or contact the development team at [mrebaal14@gmail.com](mailto:mrebaal14@gmail.com).
