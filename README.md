@@ -26,8 +26,8 @@ The project leverages AiiDA's powerful provenance tracking and database capabili
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/natural-sql-materials.git
-   cd natural-sql-materials
+   git clone https://github.com/your-username/NaturalSQL-for-Material-Science.git
+   cd NaturalSQL-for-Material-Science
    ```
 
 2. **Set up a virtual environment**:
